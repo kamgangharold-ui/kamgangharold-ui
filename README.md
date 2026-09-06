@@ -16,9 +16,15 @@ I spent two years running safety, quality and continuous improvement for a 70-pe
 | 2025 – 2026 | Dual degree, MSc International Business & MBA | EAE Business School (Barcelona) · Universitat de Lleida |
 | 2017 – 2022 | Engineering degree, Agri-food Process Engineering (**15/20, Distinction**) | Université Catholique Saint-Jérôme |
 
+MBA (Universitat de Lleida): **16.88/20**.
+
 ### 🌍 Also currently
 
 Sales team member for AIESEC in Spain's international programme (iGT): B2B prospecting for schools and language academies in Barcelona, since February 2026.
+
+### 🤝 Community involvement
+
+Communication officer, MIC (Mecatronic and Innovation Club), Université Catholique Saint-Jérôme · Member, Club Arts et Cultures, Saint-Jérôme (2020-2022) · One week of volunteering at Doual'art, sorting entries for Cameroon's national inter-school poetry competition.
 
 ### 💼 Featured projects
 
@@ -36,6 +42,7 @@ Sales team member for AIESEC in Spain's international programme (iGT): B2B prosp
 **Continuous improvement**: Lean · 5S · Ishikawa (5M) · 5 Whys · PDCA
 **Tools**: Advanced Excel · Power BI · Sage X3 ERP · MS Project
 **Also building**: React Native · Expo · Firebase · AI-paired development
+**Certifications**: Milling Certificate (AGO/Bühler, 2024) · Sustainable Development CVA (AEC, 2024) · Business Plan Development (BDS Strategies, 2019)
 
 ### 🗣️ Languages
 
