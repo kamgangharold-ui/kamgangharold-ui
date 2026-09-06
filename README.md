@@ -32,6 +32,10 @@ Communication officer, MIC (Mecatronic and Innovation Club), Université Catholi
 - **Pink Ducks, partner-led growth strategy** *(Master's thesis, team of 3)*: a multi-criteria framework to select and prioritise B2B partners for an electric bike tour operator, with 6 field interviews, 9 market sources, and a 90-day pilot projected to add €38,500 to €75,700 in year-one revenue. [Full case study →](https://kamgangharold-ui.github.io/projets/pink-ducks.html)
 - **Kribi Power, reducing oily-water discharge** *(engineering thesis)*: analysed three years of maintenance data at a 216 MW gas power plant, finding a 0.92 correlation between sludge volume and lubricant consumption, a Pareto analysis pinpointing the equipment behind 76% of leaks, and a proposed sensor-based detection system. [Full case study →](https://kamgangharold-ui.github.io/projets/kribi-eaux-huileuses.html)
 
+### ✍️ Also writing
+
+- **[Poems](https://github.com/kamgangharold-ui/poemes)**: a personal collection, in French, on love, family, identity and home. Written outside any professional or academic frame.
+
 ### 📊 A few numbers from the shop floor
 
 `19 months` no workplace accident · `−8%` production waste in 6 months · `+10%` efficiency, same period · `−40%` reporting time through automation · `100%` ISO 9001:2015 audit readiness, 30+ stakeholders aligned
