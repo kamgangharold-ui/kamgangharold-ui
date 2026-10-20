@@ -2,7 +2,7 @@
 
 **Process engineering graduate → future QSE (Quality · Safety · Environment) officer**
 
-I spent two years running safety, quality and continuous improvement for a 70-person production site on three shifts, over 19 months with zero workplace accidents. I'm completing a dual degree in international business and preparing a Specialised Master's in QSE/CSR Strategy Management, and I'm looking for the apprenticeship that lets me bring the shop floor and the management side together.
+I spent 19 months running safety, quality and continuous improvement for a 70-person production site on three shifts, with zero workplace accidents over the whole period. I'm completing a dual degree in international business and preparing a Specialised Master's in QSE/CSR Strategy Management, and I'm looking for the apprenticeship that lets me bring the shop floor and the management side together.
 
 📄 **[Full portfolio & case studies →](https://kamgangharold-ui.github.io)**
 
