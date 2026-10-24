@@ -1,13 +1,10 @@
 # Harold Kamgang
 
-Process engineer moving into QSE (Quality, Safety, Environment), and COO at Tunora since July 2026.
+COO at [Tunora](https://tunora.app/), process engineer, MSc and MBA in International Business.
 
-I spent 19 months leading safety, quality and continuous improvement for a 70-person milling site on 3x8 shifts, with zero workplace accidents. I am looking for a 12-month QSE work-study contract anywhere in France, alongside CESI's Specialised Master's in QSE/CSR Strategy Management (admission conditional on the contract).
+Since July 2026 I have been COO at Tunora, which turns one sentence into an animated video. I set up how a young team runs: decisions written down and traced, a risk register, a plan. That discipline comes from the factory floor: 19 months supervising production, quality and safety for a 70-person milling site on 3x8 shifts, with zero workplace accidents.
 
-## Now
-COO at Tunora. I set up how a young team runs: decisions traced, a risk register, a WBS and Gantt plan.
-
-## Results
+## Results on the factory floor
 - HACCP audit prepared in 3 months, passed with no major nonconformity
 - ISO 9001:2015 readiness at 100%, with 30+ stakeholders
 - 8% fewer production losses and 10% more efficiency in 6 months
@@ -17,7 +14,6 @@ COO at Tunora. I set up how a young team runs: decisions traced, a risk register
 ## Education
 | Period | Programme |
 |---|---|
-| Upcoming | Specialised Master's, QSE/CSR Strategy Management, CESI |
 | 2025 to 2026 | Dual degree: MSc International Business (EAE Business School) and MBA (Universitat de Lleida, 16.88/20) |
 | 2017 to 2022 | Food process engineering degree, 15/20, Distinction |
 
