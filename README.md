@@ -2,7 +2,7 @@
 
 COO at [Tunora](https://tunora.app/), process engineer, MSc and MBA in International Business.
 
-Since July 2026 I have been COO at Tunora, which turns one sentence into an animated video. I set up how a young team runs: decisions written down and traced, a risk register, a plan. That discipline comes from the factory floor: 19 months supervising production, quality and safety for a 70-person milling site on 3x8 shifts, with zero workplace accidents.
+Since October 2026 I have been COO at Tunora, which turns one sentence into an animated video. I set up how a young team runs (decisions written down and traced, a risk register, a plan) and I also handle marketing. That discipline comes from the factory floor: 19 months supervising production, quality and safety for a 70-person milling site on 3x8 shifts, with zero workplace accidents.
 
 ## Results on the factory floor
 - HACCP audit prepared in 3 months, passed with no major nonconformity
