@@ -1,8 +1,8 @@
 # Harold Kamgang
 
-COO at [Tunora](https://tunora.app/), process engineer, MSc and MBA in International Business.
+COO at [Tunora](https://tunora.app/), quality control for AI agents, process engineer.
 
-Since October 2026 I have been COO at Tunora, which turns one sentence into an animated video. I set up how a young team runs (decisions written down and traced, a risk register, a plan) and I also handle marketing. That discipline comes from the factory floor: 19 months supervising production, quality and safety for a 70-person milling site on 3x8 shifts, with zero workplace accidents.
+I run AI agents with quality control: nothing they publish goes out without passing approval gates, and every error I log gets a root cause and a fix. Since October 2026 I have been COO at Tunora, which turns one sentence into an animated video. I run a publishing pipeline for two products and the system of AI agents behind it, and I also handle marketing. I learned quality where mistakes hurt people: I supervised production, quality and safety for 70 people on 3x8 shifts at a flour mill, 19 months without a workplace accident.
 
 ## Results on the factory floor
 - HACCP audit prepared in 3 months, passed with no major nonconformity
